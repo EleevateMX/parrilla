@@ -9,7 +9,7 @@
    ===================================================== */
 
 window.GTAHUB_CONFIG = {
-  API_URL: "https://script.google.com/macros/s/AKfycbzo85SgirMOanXH4WZ6FnK3cW-D9FPKT70y-zwOJg0TTkOgPVjvF0raamW8XM02ILAzDw/exec",   // ej: https://script.google.com/macros/s/AKfycbzo85SgirMOanXH4WZ6FnK3cW-D9FPKT70y-zwOJg0TTkOgPVjvF0raamW8XM02ILAzDw/exec"
+  API_URL: "https://script.google.com/macros/s/AKfycbzo85SgirMOanXH4WZ6FnK3cW-D9FPKT70y-zwOJg0TTkOgPVjvF0raamW8XM02ILAzDw/exec"
   DEMO_CSV: "data/items.csv",
   PRODUCT_NAME: "GTAHUB · Centro de Aprobación Creativa",
   AGENCY_NAME: "Eleevate",
